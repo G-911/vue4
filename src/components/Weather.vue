@@ -1,5 +1,5 @@
 <template>
-    {{ weatherStore.temperatura }}
+    <h3>La temperatura es {{ weatherStore.temperatura }}º</h3>
 </template>
 
 
